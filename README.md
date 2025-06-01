@@ -8,4 +8,4 @@ Aling and Reconstruction Phylogeny core genes 29 strain Bacterial HPC Cluster
 assembly unicycler S. liquefaciens strain UNJFSC 002 HPC Cluster
 
 ## Annotation functional with R
-ModelSEED, KEEG and COG
+ModelSEED, KEEG and COG; using Tidyverse
