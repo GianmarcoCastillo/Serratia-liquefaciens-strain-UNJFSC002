@@ -1,2 +1,2 @@
 # Functional Genome analysis and Computational phenotyping of Serratia
-Assembly Genome - Serratia
+Phenotyping computation S. liquefaciens strain UNJFSC 002
