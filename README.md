@@ -4,6 +4,9 @@ Phenotyping computation S. liquefaciens strain UNJFSC 002 with Python (Seaborn, 
 ## Phylogenia Serratia liquefaciens Strain UNJFSC002 with core genes
 Aling and Reconstruction Phylogeny core genes 29 strain Bacterial HPC Cluster
 
+## Pangenome Analysis ley de Heap
+Pangenome analysis strain Serratias, with R scripts
+
 ## Assembly Unicycler
 assembly unicycler S. liquefaciens strain UNJFSC 002 HPC Cluster
 
