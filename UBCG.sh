@@ -11,9 +11,10 @@
 module load java
 
 # Definir variables
-UBCG_JAR="/home/marcos/Descargas/UBCG_ver2/UBCGtree.jar"
-UCG_DIR="/home/marcos/Descargas/UBCG_ver2/Filogenia/path"
+UBCG_JAR="/home/indes/investigadores/g.castillo/UBCGtree.jar"
+UCG_DIR="/home/indes/investigadores/g.castillo/UBCG_ver2/Filogenia/path"
 RUN_ID="mytest1"
 
 # Ejecutar UBCG
 java -jar "$UBCG_JAR" align -ucg_dir "$UCG_DIR" -run_id "$RUN_ID" -leaf uid,label
+  echo "Proceso Completo"
