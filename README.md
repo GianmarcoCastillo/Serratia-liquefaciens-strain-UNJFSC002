@@ -1,5 +1,5 @@
 # Functional Genome analysis and Computational phenotyping of Serratia
-Phenotyping computation S. liquefaciens strain UNJFSC 002
+Phenotyping computation S. liquefaciens strain UNJFSC 002 with Python (Seaborn, Matplotlib, Numpy)
 
 ## Phylogenia Serratia liquefaciens Strain UNJFSC002 with core genes
 Aling and Reconstruction Phylogeny core genes 29 strain Bacterial HPC Cluster
