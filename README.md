@@ -9,3 +9,9 @@ assembly unicycler S. liquefaciens strain UNJFSC 002 HPC Cluster
 
 ## Annotation functional with R
 ModelSEED, KEEG and COG; using Tidyverse
+
+## Creator Scripts
+Gianmarco Castillo
+
+##Orcid
+https://orcid.org/0000-0003-0865-5717
